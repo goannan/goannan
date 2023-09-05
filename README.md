@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goannan
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning SDNN
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
