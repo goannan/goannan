@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @goannan
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Toda Lab
 - 📫 How to reach me ...
 
 <!---
