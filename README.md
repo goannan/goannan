@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goannan
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning audio watermarking
+- 👀 I’m interested in LLMs, TTS
+- 🌱 I’m currently learning LLMs, TTS
 - 💞️ I’m looking to collaborate on Toda Lab
 - 📫 How to reach me ...
 
